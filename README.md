@@ -98,9 +98,3 @@ python notebooks/quick_check.py
 - Large raw data files are ignored by Git (see `.gitignore`).  
 - Processed outputs are reproducible from the pipeline.  
 ```
-
----
-
-👉 Copy this into your `README.md`, commit, and push. When you refresh your GitHub repo, it’ll render beautifully at the bottom of the page.  
-
-Do you want me to also draft a **Kanban-style task list** (Phase 1 → Phase 2 → Phase 3) that you can paste into GitHub Projects or Issues to track your progress?
